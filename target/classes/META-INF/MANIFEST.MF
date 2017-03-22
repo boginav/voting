@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: vote
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￐ﾐ￐ﾻ￐ﾵ￐ﾺ￑ﾁ
+Implementation-Vendor-Id: by.bogin
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/vote/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
